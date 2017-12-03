@@ -1,13 +1,12 @@
 # css-layout
 7 kinds of CSS vertically centered solutions
 
-> 
 CSS horizontal vertical center
 
 查看方式：直接运行 index.html
 
-查看详细说明：点[这里](https://weily22.github.io/2017/12/03/css%E4%B8%AD%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%E7%AC%94%E8%AE%B0/)**
-**查看方式：直接运行 index.html**
+查看详细说明：点[这里](https://weily22.github.io/2017/12/03/css%E4%B8%AD%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%E7%AC%94%E8%AE%B0/)
+查看方式：直接运行 index.html
 
 页面基本布局：
 
